@@ -1,0 +1,2291 @@
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 846, in parseBucket
+    self.products_data[product_id]['skus'].append(int(sku))
+ValueError: invalid literal for int() with base 10: ''
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 846, in parseBucket
+    self.products_data[product_id]['skus'].append(int(sku))
+ValueError: invalid literal for int() with base 10: ''
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 846, in parseBucket
+    self.products_data[product_id]['skus'].append(int(sku))
+ValueError: invalid literal for int() with base 10: ''
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 851, in parseBucket
+    self.products_data[product_id]['attr_values'].remove(response.meta['size_float'])
+ValueError: list.remove(x): x not in list
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009133-air-max-95-premium-se.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/015846-crazy-byw.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/042971-humara-17-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/042971-humara-17-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/042971-humara-17-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/042971-humara-17-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/042971-humara-17-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/014998-crazy-1-sock-adv-primeknit.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/014998-crazy-1-sock-adv-primeknit.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/014998-crazy-1-sock-adv-primeknit.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/014998-crazy-1-sock-adv-primeknit.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/014998-crazy-1-sock-adv-primeknit.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/009136-air-max-90-premium.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 827, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main/main.py", line 3052, in run_spiders
+    yield RUNNER.crawl('FootPatrolSpider')
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 167, in crawl
+    crawler = self.create_crawler(crawler_or_spidercls)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 195, in create_crawler
+    return self._create_crawler(crawler_or_spidercls)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 199, in _create_crawler
+    spidercls = self.spider_loader.load(spidercls)
+  File "C:\Python27\lib\site-packages\scrapy\spiderloader.py", line 71, in load
+    raise KeyError("Spider not found: {}".format(spider_name))
+KeyError: 'Spider not found: FootPatrolSpider'
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <GET http://www.footpatrol.co.uk/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/?order_by=1>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://www.footpatrol.co.uk/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/?order_by=1 took longer than 180.0 seconds..
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: SNSSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: SNSSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: SNSSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: BSTNSpider STARTED.
+CRITICAL: TrophyRoomSpider STARTED.
+CRITICAL: OfficeSpider STARTED.
+CRITICAL: ALLikeSpider STARTED.
+CRITICAL: UrbanJungleSpider STARTED.
+CRITICAL: SSenseSpider STARTED.
+CRITICAL: BackDoorSpider STARTED.
+CRITICAL: BasketSpider STARTED.
+CRITICAL: DopeFactorySpider STARTED.
+CRITICAL: NextDoorSpider STARTED.
+CRITICAL: SummerSpider STARTED.
+CRITICAL: MrPorterSpider STARTED.
+CRITICAL: StormFashionSpider STARTED.
+CRITICAL: TresBienSpider STARTED.
+CRITICAL: PackerSpider STARTED.
+CRITICAL: AddictSpider STARTED.
+CRITICAL: AphroditeSpider STARTED.
+CRITICAL: BaitSpider STARTED.
+CRITICAL: BlendsSpider STARTED.
+CRITICAL: NiceKicksSpider STARTED.
+CRITICAL: FeatureSpider STARTED.
+CRITICAL: HypeBeastSpider STARTED.
+CRITICAL: DeadStockSpider STARTED.
+CRITICAL: NotreSpider STARTED.
+CRITICAL: NrmlSpider STARTED.
+CRITICAL: OnenessSpider STARTED.
+CRITICAL: PufferRedsSpider STARTED.
+CRITICAL: RenartsSpider STARTED.
+CRITICAL: ProperSpider STARTED.
+CRITICAL: SoleStopSpider STARTED.
+CRITICAL: TitoloSpider STARTED.
+CRITICAL: UptownSpider STARTED.
+CRITICAL: WestNYCSpider STARTED.
+CRITICAL: XileClothingSpider STARTED.
+CRITICAL: SoleflySpider STARTED.
+CRITICAL: SVDSpider STARTED.
+CRITICAL: HubbastilleSpider STARTED.
+CRITICAL: SneakersVooberlinSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Shoes164Spider STARTED.
+CRITICAL: FootwearUomoSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: BSTNSpider STARTED.
+CRITICAL: TrophyRoomSpider STARTED.
+CRITICAL: OfficeSpider STARTED.
+CRITICAL: ALLikeSpider STARTED.
+CRITICAL: UrbanJungleSpider STARTED.
+CRITICAL: SSenseSpider STARTED.
+CRITICAL: BackDoorSpider STARTED.
+CRITICAL: BasketSpider STARTED.
+CRITICAL: DopeFactorySpider STARTED.
+CRITICAL: NextDoorSpider STARTED.
+CRITICAL: SummerSpider STARTED.
+CRITICAL: MrPorterSpider STARTED.
+CRITICAL: StormFashionSpider STARTED.
+CRITICAL: TresBienSpider STARTED.
+CRITICAL: PackerSpider STARTED.
+CRITICAL: AddictSpider STARTED.
+CRITICAL: AphroditeSpider STARTED.
+CRITICAL: BaitSpider STARTED.
+CRITICAL: BlendsSpider STARTED.
+CRITICAL: NiceKicksSpider STARTED.
+CRITICAL: FeatureSpider STARTED.
+CRITICAL: HypeBeastSpider STARTED.
+CRITICAL: DeadStockSpider STARTED.
+CRITICAL: NotreSpider STARTED.
+CRITICAL: NrmlSpider STARTED.
+CRITICAL: OnenessSpider STARTED.
+CRITICAL: PufferRedsSpider STARTED.
+CRITICAL: RenartsSpider STARTED.
+CRITICAL: ProperSpider STARTED.
+CRITICAL: SoleStopSpider STARTED.
+CRITICAL: TitoloSpider STARTED.
+CRITICAL: UptownSpider STARTED.
+CRITICAL: WestNYCSpider STARTED.
+CRITICAL: XileClothingSpider STARTED.
+CRITICAL: SoleflySpider STARTED.
+CRITICAL: SVDSpider STARTED.
+CRITICAL: HubbastilleSpider STARTED.
+CRITICAL: SneakersVooberlinSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Shoes164Spider STARTED.
+CRITICAL: FootwearUomoSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: BSTNSpider STARTED.
+CRITICAL: TrophyRoomSpider STARTED.
+CRITICAL: OfficeSpider STARTED.
+CRITICAL: ALLikeSpider STARTED.
+CRITICAL: UrbanJungleSpider STARTED.
+CRITICAL: SSenseSpider STARTED.
+CRITICAL: BackDoorSpider STARTED.
+CRITICAL: BasketSpider STARTED.
+CRITICAL: DopeFactorySpider STARTED.
+CRITICAL: NextDoorSpider STARTED.
+CRITICAL: SummerSpider STARTED.
+CRITICAL: MrPorterSpider STARTED.
+CRITICAL: StormFashionSpider STARTED.
+CRITICAL: TresBienSpider STARTED.
+CRITICAL: PackerSpider STARTED.
+CRITICAL: AddictSpider STARTED.
+CRITICAL: AphroditeSpider STARTED.
+CRITICAL: BaitSpider STARTED.
+CRITICAL: BlendsSpider STARTED.
+CRITICAL: NiceKicksSpider STARTED.
+CRITICAL: FeatureSpider STARTED.
+CRITICAL: HypeBeastSpider STARTED.
+CRITICAL: DeadStockSpider STARTED.
+CRITICAL: NotreSpider STARTED.
+CRITICAL: NrmlSpider STARTED.
+CRITICAL: OnenessSpider STARTED.
+CRITICAL: PufferRedsSpider STARTED.
+CRITICAL: RenartsSpider STARTED.
+CRITICAL: ProperSpider STARTED.
+CRITICAL: SoleStopSpider STARTED.
+CRITICAL: TitoloSpider STARTED.
+CRITICAL: UptownSpider STARTED.
+CRITICAL: WestNYCSpider STARTED.
+CRITICAL: XileClothingSpider STARTED.
+CRITICAL: SoleflySpider STARTED.
+CRITICAL: SVDSpider STARTED.
+CRITICAL: HubbastilleSpider STARTED.
+CRITICAL: SneakersVooberlinSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Shoes164Spider STARTED.
+CRITICAL: FootwearUomoSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: BSTNSpider STARTED.
+CRITICAL: TrophyRoomSpider STARTED.
+CRITICAL: OfficeSpider STARTED.
+CRITICAL: ALLikeSpider STARTED.
+CRITICAL: UrbanJungleSpider STARTED.
+CRITICAL: SSenseSpider STARTED.
+CRITICAL: BackDoorSpider STARTED.
+CRITICAL: BasketSpider STARTED.
+CRITICAL: DopeFactorySpider STARTED.
+CRITICAL: NextDoorSpider STARTED.
+CRITICAL: SummerSpider STARTED.
+CRITICAL: MrPorterSpider STARTED.
+CRITICAL: StormFashionSpider STARTED.
+CRITICAL: TresBienSpider STARTED.
+CRITICAL: PackerSpider STARTED.
+CRITICAL: AddictSpider STARTED.
+CRITICAL: AphroditeSpider STARTED.
+CRITICAL: BaitSpider STARTED.
+CRITICAL: BlendsSpider STARTED.
+CRITICAL: NiceKicksSpider STARTED.
+CRITICAL: FeatureSpider STARTED.
+CRITICAL: HypeBeastSpider STARTED.
+CRITICAL: DeadStockSpider STARTED.
+CRITICAL: NotreSpider STARTED.
+CRITICAL: NrmlSpider STARTED.
+CRITICAL: OnenessSpider STARTED.
+CRITICAL: PufferRedsSpider STARTED.
+CRITICAL: RenartsSpider STARTED.
+CRITICAL: ProperSpider STARTED.
+CRITICAL: SoleStopSpider STARTED.
+CRITICAL: TitoloSpider STARTED.
+CRITICAL: UptownSpider STARTED.
+CRITICAL: WestNYCSpider STARTED.
+CRITICAL: XileClothingSpider STARTED.
+CRITICAL: SoleflySpider STARTED.
+CRITICAL: SVDSpider STARTED.
+CRITICAL: HubbastilleSpider STARTED.
+CRITICAL: SneakersVooberlinSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Shoes164Spider STARTED.
+CRITICAL: FootwearUomoSpider STARTED.
+ERROR: Spider error processing <GET https://www.jdsports.co.uk/men/mens-footwear/brand/adidas-originals,nike,adidas,nike-sb,jordan/latest/?from=0> (referer: None)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 746, in parse
+    item['name'] = product.xpath('.//span/a/img/@title').extract()[0]
+IndexError: list index out of range
+ERROR: Error processing {'link': u'https://www.back-door.it/product/nike-air-max-97-plus-mica-green/',
+ 'name': u'Nike Air Max 97 / Plus \u2013 Mica Green',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 23: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://caliroots.com/nike-air-max-93-306551-107/p/95916',
+ 'name': u'Air Max \xb493',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\xb4' in position 8: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://www.back-door.it/product/air-jordan-32-low-slam-dunk/',
+ 'name': u'Air Jordan 32 Low \u2013 Slam Dunk',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 18: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://www.back-door.it/product/air-jordan-1-retro-high-og-nrg-gold-toe/',
+ 'name': u'Air Jordan 1 Retro High OG NRG \u2013 Gold Toe',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 31: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://www.back-door.it/product/nike-air-vapormax-plus-white/',
+ 'name': u'Nike Air Vapormax Plus \u2013 White',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 23: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://www.back-door.it/product/nike-air-max-plus-97-cream/',
+ 'name': u'Nike Air Max Plus / 97 \u2013 Cream',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2013' in position 23: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://wellgosh.com/nike-air-humara-17-qs-concord-bronzine.html',
+ 'name': u'Nike Air Humara \u201917 QS Concord/Bronzine AO3297-400',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2019' in position 16: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://wellgosh.com/nike-air-humara-17-qs-dark-russet-habenero-red.html',
+ 'name': u'Nike Air Humara \u201917 QS Dark Russet/Habenero Red A03297-200',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name']))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2019' in position 16: ordinal not in range(128)
+ERROR: Error downloading <GET http://www.drome.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://rise45.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.urbanindustry.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.undefeated.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.bdgastore.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.socialstatuspgh.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://tres-bien.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET http://www.aphrodite1994.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://www.lapstoneandhammer.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.extrabutterny.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.notre-shop.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.trophyroomstore.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shopnicekicks.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.addictmiami.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.hanon-shop.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://www.saintalfred.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://packershoes.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://nrml.ca/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.blendsus.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.deadstock.ca/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://sneakerpolitics.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.havenshop.ca/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.featuresneakerboutique.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.afew-store.com/en/sneaker/nike_air-jordan_adidas/?limit=24&p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.uptownmia.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.oneness287.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.solestop.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://properlbc.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.sivasdescalzo.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://renarts.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.solefly.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.westnyc.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.dope-factory.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.kongonline.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://cncpts.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.capsuletoronto.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.loadednz.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.bstnstore.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.susi.it/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.antonia.it/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://ymeuniverse.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.slamjamsocialism.com/footwear/#/manufacturer-adidas_by_raf_simons-adidas_consortium-adidas_originals-nike-nike_gyakusou-nike_special_project/page-1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://stormfashion.dk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.overkillshop.com/en/sneaker/filter/manufacturer-nike-adidas-jordan.html?dir=desc&limit=36&order=category_sorting&p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.urbanoutfitters.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.footpatrol.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.offspring.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.saveoursole.de/robots.txt>: [<twisted.python.failure.Failure OpenSSL.SSL.Error: [('SSL routines', 'ssl3_read_bytes', 'tlsv1 alert internal error')]>]
+ResponseNeverReceived: [<twisted.python.failure.Failure OpenSSL.SSL.Error: [('SSL routines', 'ssl3_read_bytes', 'tlsv1 alert internal error')]>]
+ERROR: Error downloading <GET http://www.office.co.uk/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://shop.nordstrom.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://store.nike.com/robots.txt>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.zappos.com/men-shoes/CK_XAcABAuICAgEY.zso?s=isNew/desc/goLiveDate/desc/recentSalesStyle/desc/>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET http://www.drome.co.uk/footwear/?old_expand=2&brand=BR_AA&brand=BR_NN&brand=BR_JORD&display=grid4&order=NEW+PRODUCTS&expand=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET http://www.aphrodite1994.com/footwear#dir=asc&manufacturer=adidas,adidas-x-raf-simons,nike&order=entity_id&gan_data=true>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET http://tres-bien.com/footwear?p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://rise45.com/collections/mens-footwear>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.undefeated.com/collections/footwear>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.urbanindustry.co.uk/collections/shoes?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://renarts.com/collections/mens-7/footwear?page=1&sort_by=newest-to-oldest>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.socialstatuspgh.com/collections/sneakers?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shopnicekicks.com/collections/shoes?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.extrabutterny.com/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.trophyroomstore.com/collections/all/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://packershoes.com/collections/footwear?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.oneness287.com/collections/men?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.deadstock.ca/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.blendsus.com/collections/mens-footwear?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.saintalfred.com/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.addictmiami.com/collections/men?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.sivasdescalzo.com/en/lifestyle/sneakers?limit=36&p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.notre-shop.com/collections/sneakers?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.uptownmia.com/collections/new-arrivals?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.bdgastore.com/collections/footwear?sort_by=created-descending&page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://properlbc.com/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.westnyc.com/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.featuresneakerboutique.com/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.lapstoneandhammer.com/collections/foortwear?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.solefly.com/collections/mens-1?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://nrml.ca/collections/nrml-footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.solestop.com/collections/men-footwear?sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://shop.havenshop.ca/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://sneakerpolitics.com/collections/sneakers?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.loadednz.com/products/footwear,1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.dope-factory.com/categories/shoes.html?dir=desc&limit=20&order=product_date&p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.kongonline.co.uk/collections/footwear?page=1&sort_by=created-descending>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.capsuletoronto.com/collections/footwear?page=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://cncpts.com/collections/footwear>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error processing {'link': u'https://www.shelflife.co.za/products/Nike-Air-Pegasus-A-T-Winter-Concord-ACG-Pack-QS',
+ 'name': u'Nike Air Pegasus A/T Winter \u2018Concord\u2019 ACG Pack QS',
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name'].encode('utf-8')))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2018' in position 28: ordinal not in range(128)
+ERROR: Error processing {'link': u'https://www.shelflife.co.za/products/Nike-Air-Humara-17-QS-Concord',
+ 'name': u"Nike Air Humara '17 QS \u2018Concord\u2019",
+ 'size': '**NOT SUPPORTED YET**'}
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "E:\Work\Filippo_Portolan(Italy)\Sneaker-Notify\main\mysql_pipeline.py", line 569, in process_item
+    print("Sent '{}' on your slack.".format(item['name'].encode('utf-8')))
+UnicodeEncodeError: 'ascii' codec can't encode character u'\u2018' in position 23: ordinal not in range(128)
+ERROR: Error downloading <GET https://www.bstnstore.com/en/footwear/filter/__brand_adidas.jordan.nike/page/1/sort/date_new>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://ymeuniverse.com/en/sneakers?brand=Adidas+Consortium,Adidas,Nike,Nike+SP,NIKELAB+ACG&dir=asc&order=created_at&p=1>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+ERROR: Error downloading <GET https://www.antonia.it/164-shoes>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://www.susi.it/it-IT/uomo/scarpe/sneaker>: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+ERROR: Error downloading <GET https://www.saveoursole.de/en/sneaker/?p=1&o=1&n=12>: [<twisted.python.failure.Failure OpenSSL.SSL.Error: [('SSL routines', 'ssl3_read_bytes', 'tlsv1 alert internal error')]>]
+ERROR: Error downloading <GET http://m.footaction.com/robots.txt>: User timeout caused connection failure: Getting http://m.footaction.com/robots.txt took longer than 180.0 seconds..
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://m.footaction.com/robots.txt took longer than 180.0 seconds..
+ERROR: Error downloading <GET http://m.champssports.com/robots.txt>: User timeout caused connection failure: Getting http://m.champssports.com/robots.txt took longer than 180.0 seconds..
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://m.champssports.com/robots.txt took longer than 180.0 seconds..
+ERROR: Error downloading <GET http://m.footlocker.com/robots.txt>: User timeout caused connection failure: Getting http://m.footlocker.com/robots.txt took longer than 180.0 seconds..
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://m.footlocker.com/robots.txt took longer than 180.0 seconds..
+ERROR: Error downloading <GET http://www.adidas.com/robots.txt>: User timeout caused connection failure: Getting http://www.adidas.com/robots.txt took longer than 180.0 seconds..
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://www.adidas.com/robots.txt took longer than 180.0 seconds..
+ERROR: Error downloading <GET http://m.eastbay.com/robots.txt>: User timeout caused connection failure: Getting http://m.eastbay.com/robots.txt took longer than 180.0 seconds..
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting http://m.eastbay.com/robots.txt took longer than 180.0 seconds..
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: BSTNSpider STARTED.
+CRITICAL: TrophyRoomSpider STARTED.
+CRITICAL: OfficeSpider STARTED.
+CRITICAL: ALLikeSpider STARTED.
+CRITICAL: UrbanJungleSpider STARTED.
+CRITICAL: SSenseSpider STARTED.
+CRITICAL: BackDoorSpider STARTED.
+CRITICAL: BasketSpider STARTED.
+CRITICAL: DopeFactorySpider STARTED.
+CRITICAL: NextDoorSpider STARTED.
+CRITICAL: SummerSpider STARTED.
+CRITICAL: MrPorterSpider STARTED.
+CRITICAL: StormFashionSpider STARTED.
+CRITICAL: TresBienSpider STARTED.
+CRITICAL: PackerSpider STARTED.
+CRITICAL: AddictSpider STARTED.
+CRITICAL: AphroditeSpider STARTED.
+CRITICAL: BaitSpider STARTED.
+CRITICAL: BlendsSpider STARTED.
+CRITICAL: NiceKicksSpider STARTED.
+CRITICAL: FeatureSpider STARTED.
+CRITICAL: HypeBeastSpider STARTED.
+CRITICAL: DeadStockSpider STARTED.
+CRITICAL: NotreSpider STARTED.
+CRITICAL: NrmlSpider STARTED.
+CRITICAL: OnenessSpider STARTED.
+CRITICAL: PufferRedsSpider STARTED.
+CRITICAL: RenartsSpider STARTED.
+CRITICAL: ProperSpider STARTED.
+CRITICAL: SoleStopSpider STARTED.
+CRITICAL: TitoloSpider STARTED.
+CRITICAL: UptownSpider STARTED.
+CRITICAL: WestNYCSpider STARTED.
+CRITICAL: XileClothingSpider STARTED.
+CRITICAL: SoleflySpider STARTED.
+CRITICAL: SVDSpider STARTED.
+CRITICAL: HubbastilleSpider STARTED.
+CRITICAL: SneakersVooberlinSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Shoes164Spider STARTED.
+CRITICAL: FootwearUomoSpider STARTED.
+CRITICAL: KithSpider STARTED.
+CRITICAL: RuvillaSpider STARTED.
+CRITICAL: FootShopSpider STARTED.
+CRITICAL: AfewSpider STARTED.
+CRITICAL: CalirootsSpider STARTED.
+CRITICAL: EinhalbSpider STARTED.
+CRITICAL: TintSpider STARTED.
+CRITICAL: OverkillSpider STARTED.
+CRITICAL: FootDistrictSpider STARTED.
+CRITICAL: SizeSpider STARTED.
+CRITICAL: YCMCSpider STARTED.
+CRITICAL: CitySpider STARTED.
+CRITICAL: FootLockerSpider STARTED.
+CRITICAL: FootActionSpider STARTED.
+CRITICAL: ChampsSpider STARTED.
+CRITICAL: EastBaySpider STARTED.
+CRITICAL: AdidasUSSpider STARTED.
+CRITICAL: AdidasEUSpider STARTED.
+CRITICAL: NikeSpider STARTED.
+CRITICAL: NordstromSpider STARTED.
+CRITICAL: JDSportsSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: SneakerPoliticsSpider STARTED.
+CRITICAL: UrbanIndustrySpider STARTED.
+CRITICAL: SneakerBaasSpider STARTED.
+CRITICAL: UrbanOutfittersSpider STARTED.
+CRITICAL: LuisaSpider STARTED.
+CRITICAL: SlamJamSpider STARTED.
+CRITICAL: Rise45Spider STARTED.
+CRITICAL: UndefeatedSpider STARTED.
+CRITICAL: ZapposSpider STARTED.
+CRITICAL: PointzSpider STARTED.
+CRITICAL: StickABushSpider STARTED.
+CRITICAL: KongSpider STARTED.
+CRITICAL: SaveOurSoleSpider STARTED.
+CRITICAL: InflammableSpider STARTED.
+CRITICAL: DefShopSpider STARTED.
+CRITICAL: OffspringSpider STARTED.
+CRITICAL: SoleKitchenSpider STARTED.
+CRITICAL: DromeSpider STARTED.
+CRITICAL: FootAsylumSpider STARTED.
+CRITICAL: ConceptsSpider STARTED.
+CRITICAL: SocialStatusSpider STARTED.
+CRITICAL: ExtraButterSpider STARTED.
+CRITICAL: BodegaSpider STARTED.
+CRITICAL: SaintAlfredSpider STARTED.
+CRITICAL: LapstoneNHammerSpider STARTED.
+CRITICAL: ShelfLifeSpider STARTED.
+CRITICAL: AsphaltGoldSpider STARTED.
+CRITICAL: HanonSpider STARTED.
+CRITICAL: SoleBoxSpider STARTED.
+CRITICAL: ConsortiumSpider STARTED.
+CRITICAL: HavenSpider STARTED.
+CRITICAL: NeedSupplySpider STARTED.
+CRITICAL: LoadedSpider STARTED.
+CRITICAL: WellGoshSpider STARTED.
+CRITICAL: CapsuleSpider STARTED.
+CRITICAL: YMESpider STARTED.
+CRITICAL: HypeDCSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/065481-zoom-fly-sp.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 835, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/065481-zoom-fly-sp.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Work/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 835, in parseBucket
+    dataObject_str = response.xpath('//*[@type="text/javascript"]/text()').extract_first().replace('\n', '').replace('\t', '').strip()
+AttributeError: 'NoneType' object has no attribute 'replace'
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+ERROR: Error caught on signal handler: <bound method ?.request_scheduled of <scrapy.spidermiddlewares.referer.RefererMiddleware object at 0x000000000AD0FE10>>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\signal.py", line 30, in send_catch_log
+    *arguments, **named)
+  File "C:\Python27\lib\site-packages\pydispatch\robustapply.py", line 55, in robustApply
+    return receiver(*arguments, **named)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 343, in request_scheduled
+    redirected_urls = request.meta.get('redirect_urls', [])
+AttributeError: 'str' object has no attribute 'meta'
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 3098, in <module>
+    process.start()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 285, in start
+    reactor.run(installSignalHandlers=False)  # blocking call
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1243, in run
+    self.mainLoop()
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1252, in mainLoop
+    self.runUntilCurrent()
+--- <exception caught here> ---
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 878, in runUntilCurrent
+    call.func(*call.args, **call.kw)
+  File "C:\Python27\lib\site-packages\scrapy\utils\reactor.py", line 41, in __call__
+    return self._func(*self._a, **self._kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 135, in _next_request
+    self.crawl(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 210, in crawl
+    self.schedule(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 216, in schedule
+    if not self.slot.scheduler.enqueue_request(request):
+  File "C:\Python27\lib\site-packages\scrapy\core\scheduler.py", line 54, in enqueue_request
+    if not request.dont_filter and self.df.request_seen(request):
+exceptions.AttributeError: 'str' object has no attribute 'dont_filter'
+
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 3098, in <module>
+    process.start()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 285, in start
+    reactor.run(installSignalHandlers=False)  # blocking call
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1243, in run
+    self.mainLoop()
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1252, in mainLoop
+    self.runUntilCurrent()
+--- <exception caught here> ---
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 878, in runUntilCurrent
+    call.func(*call.args, **call.kw)
+  File "C:\Python27\lib\site-packages\scrapy\utils\reactor.py", line 41, in __call__
+    return self._func(*self._a, **self._kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 135, in _next_request
+    self.crawl(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 210, in crawl
+    self.schedule(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 216, in schedule
+    if not self.slot.scheduler.enqueue_request(request):
+  File "C:\Python27\lib\site-packages\scrapy\core\scheduler.py", line 54, in enqueue_request
+    if not request.dont_filter and self.df.request_seen(request):
+exceptions.AttributeError: 'str' object has no attribute 'dont_filter'
+
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 3098, in <module>
+    process.start()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 285, in start
+    reactor.run(installSignalHandlers=False)  # blocking call
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1243, in run
+    self.mainLoop()
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 1252, in mainLoop
+    self.runUntilCurrent()
+--- <exception caught here> ---
+  File "C:\Python27\lib\site-packages\twisted\internet\base.py", line 878, in runUntilCurrent
+    call.func(*call.args, **call.kw)
+  File "C:\Python27\lib\site-packages\scrapy\utils\reactor.py", line 41, in __call__
+    return self._func(*self._a, **self._kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 135, in _next_request
+    self.crawl(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 210, in crawl
+    self.schedule(request, spider)
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 216, in schedule
+    if not self.slot.scheduler.enqueue_request(request):
+  File "C:\Python27\lib\site-packages\scrapy\core\scheduler.py", line 54, in enqueue_request
+    if not request.dont_filter and self.df.request_seen(request):
+exceptions.AttributeError: 'str' object has no attribute 'dont_filter'
+
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 78, in crawl
+    start_requests = iter(self.spider.start_requests())
+TypeError: 'NoneType' object is not iterable
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 2724, in start_requests
+    yield Request('google.com', callback=self.parse, meta={'content':response})
+  File "C:\Python27\lib\site-packages\scrapy\http\request\__init__.py", line 25, in __init__
+    self._set_url(url)
+  File "C:\Python27\lib\site-packages\scrapy\http\request\__init__.py", line 58, in _set_url
+    raise ValueError('Missing scheme in request url: %s' % self._url)
+ValueError: Missing scheme in request url: google.com
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 2724, in start_requests
+    yield Request('https://www.google.com/', callback=self.parse, meta={'content':response})
+NameError: global name 'response' is not defined
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootwearSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+WARNING: C:\Program Files (x86)\JetBrains\PyCharm 5.0\helpers\pydev\pydevd_resolver.py:191: ScrapyDeprecationWarning: Attribute `_root` is deprecated, use `root` instead
+  attr = getattr(var, n)
+
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <POST https://www.footpatrol.com/basket>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/basket took longer than 180.0 seconds..
+ERROR: Error downloading <POST https://www.footpatrol.com/basket>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/basket took longer than 180.0 seconds..
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:/Filippo_Portolan(Italy)/Sneaker-Notify/main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Spider error processing <POST https://www.footpatrol.com/basket> (referer: https://www.footpatrol.com/footwear/055882-air-force-1-07-roc-a-fella-women-s.html)
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\scrapy\utils\defer.py", line 102, in iter_errback
+    yield next(it)
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "C:\Python27\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "E:\Filippo_Portolan(Italy)\Sneaker-Notify\main\main.py", line 910, in parseBucket
+    result_size_str = result_size_str + '{}: {}.{}\n'.format(str(attr_values[i]).replace('.0', ''), product_id, str(sku))
+IndexError: list index out of range
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <GET https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1 took longer than 180.0 seconds..
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <GET https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1 took longer than 180.0 seconds..
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <GET https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1 took longer than 180.0 seconds..
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+ERROR: Error downloading <GET https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1>
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1384, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "C:\Python27\lib\site-packages\twisted\python\failure.py", line 408, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 653, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\handlers\http11.py", line 320, in _cb_timeout
+    raise TimeoutError("Getting %s took longer than %s seconds." % (url, timeout))
+TimeoutError: User timeout caused connection failure: Getting https://www.footpatrol.com/footwear/br:adidas,adidas-consortium,adidas-originals,adidas-raf-simons,adidas-spezial,jordan,nike,nikelab/page4.html?ajax=1&ajax_paging=1 took longer than 180.0 seconds..
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: FootPatrolSpider STARTED.
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: Unhandled error in Deferred:
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: 
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\twisted\internet\defer.py", line 1386, in _inlineCallbacks
+    result = g.send(result)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 95, in crawl
+    six.reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 77, in crawl
+    self.engine = self._create_engine()
+  File "C:\Python27\lib\site-packages\scrapy\crawler.py", line 102, in _create_engine
+    return ExecutionEngine(self, lambda _: self.stop())
+  File "C:\Python27\lib\site-packages\scrapy\core\engine.py", line 69, in __init__
+    self.downloader = downloader_cls(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\core\downloader\__init__.py", line 88, in __init__
+    self.middleware = DownloaderMiddlewareManager.from_crawler(crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 58, in from_crawler
+    return cls.from_settings(crawler.settings, crawler)
+  File "C:\Python27\lib\site-packages\scrapy\middleware.py", line 34, in from_settings
+    mwcls = load_object(clspath)
+  File "C:\Python27\lib\site-packages\scrapy\utils\misc.py", line 44, in load_object
+    mod = import_module(module)
+  File "C:\Python27\lib\importlib\__init__.py", line 37, in import_module
+    __import__(name)
+ImportError: No module named scraping_hub.middlewares
+CRITICAL: FootPatrolSpider STARTED.
